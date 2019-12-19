@@ -1,0 +1,26 @@
+### oci
+export TF_VAR_oci_tenancy_ocid="ocid1.tenancy.oc1i.xxxxx"
+export TF_VAR_oci_user_ocid="ocid1.user.oc1.xxxxx"
+export TF_VAR_oci_compartment_ocid="ocid1.compartment.oc1.xxxxx"
+export ocicomp="ocid1.compartment.oc1..xxxx"
+export TF_VAR_oci_fingerprint=xxxxx
+export TF_VAR_oci_private_key_path=xxxxx
+
+export TF_VAR_ssh_public_key=$(cat ~/.ssh/id_rsa.pub)
+
+# apg -m 12
+export TF_VAR_atp_admin_password="UpEk@Fijnif1"
+
+
+# apg -m 12
+export ATP_WALLET_PASS="IkjeOramsAs_"
+
+
+export TF_VAR_oci_region=eu-frankfurt-1
+#export TF_VAR_oci_region=us-ashburn-1
+
+
+
+
+
+
